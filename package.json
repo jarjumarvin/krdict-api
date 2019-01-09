@@ -1,0 +1,22 @@
+{
+  "name": "krdict-api",
+  "version": "0.0.1",
+  "description": "API for krdict.korean.go.kr",
+  "main": "krdict-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarjumarvin/krdict-api.git"
+  },
+  "keywords": [
+    "p"
+  ],
+  "author": "github @jarjumarvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarjumarvin/krdict-api/issues"
+  },
+  "homepage": "https://github.com/jarjumarvin/krdict-api#readme"
+}
